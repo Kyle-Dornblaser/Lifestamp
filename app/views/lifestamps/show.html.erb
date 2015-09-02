@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Value:</strong>
+  <%= @lifestamp.value %>
+</p>
+
+<p>
+  <strong>Timestamp:</strong>
+  <%= @lifestamp.timestamp %>
+</p>
+
+<p>
+  <strong>Topic:</strong>
+  <%= @lifestamp.topic %>
+</p>
+
+<%= link_to 'Edit', edit_lifestamp_path(@lifestamp) %> |
+<%= link_to 'Back', lifestamps_path %>

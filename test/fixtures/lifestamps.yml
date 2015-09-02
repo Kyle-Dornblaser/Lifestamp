@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value: 
+  timestamp: 2015-09-02 19:11:54
+  topic_id: 
+
+two:
+  value: 
+  timestamp: 2015-09-02 19:11:54
+  topic_id: 
